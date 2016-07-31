@@ -1,4 +1,4 @@
-# "Fractal" Jekyll Theme
+# Fractal - Jekyll Theme
 
 A Jekyll version of the "Fractal" theme by [HTML5 UP](https://html5up.net/).
 
