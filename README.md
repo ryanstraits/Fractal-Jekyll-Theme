@@ -2,7 +2,7 @@
 
 A Jekyll version of the "Fractal" theme by [HTML5 UP](https://html5up.net/).
 
-![alt text](images/fractal.jpg "Fractal Theme")
+![Fractal Theme](images/fractal.jpg "Fractal Theme")
 
 # How to Use
 
