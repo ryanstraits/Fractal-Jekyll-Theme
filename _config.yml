@@ -1,8 +1,8 @@
 # Site settings
 title: Fractal
 email: youremailaddress@gmail.com
-description: Just a simple, single page responsive<br />
-template brought to you by <a href="http://html5up.net">HTML5 UP</a>.
+description: Just a simple, single page responsive
+template brought to you by HTML5 UP.
 baseurl: "/fractal-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 
